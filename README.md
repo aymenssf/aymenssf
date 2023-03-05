@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aymenassaf/](https://www.linkedin.com/in/aymenassaf/)
 
-- 📫 How to reach me **assafaymenn1@gmail.com**
+- 📫 How to reach me **assafaymen1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
