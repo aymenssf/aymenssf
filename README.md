@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/aymenassaf" target="blank"><img src="https://img.shields.io/twitter/follow/aymenassaf?logo=twitter&style=for-the-badge" alt="aymenassaf" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, React, Angular**
+- 🔭 I’m currently a **Software Engineering student**
 
-- 👨‍💻 I’m majority working with Java, PHP & JavaScript. [Java, Python & C++.](Java, Python & C++.)
+- 📫 How to reach me [assafaymenn1@gmail.com](assafaymenn1@gmail.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aymenassaf/](https://www.linkedin.com/in/aymenassaf/)
 
-- 📫 How to reach me **assafaymenn1@gmail.com**
+- 👨‍💻 I’m majority working **Java, Python & C++.**
+
+- 🌱 I’m currently learning **Laravel, React, Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymenssf&show_icons=true&locale=en" alt="aymenssf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymenssf&" alt="aymenssf" /></p>
-
