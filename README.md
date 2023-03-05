@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently a **Software Engineering student**
 
-- 📫 How to reach me [assafaymenn1@gmail.com](assafaymenn1@gmail.com)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aymenassaf/](https://www.linkedin.com/in/aymenassaf/)
-
 - 👨‍💻 I’m majority working **Java, Python & C++.**
 
 - 🌱 I’m currently learning **Laravel, React, Angular**
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/aymenassaf/](https://www.linkedin.com/in/aymenassaf/)
+
+- 📫 How to reach me **assafaymenn1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
