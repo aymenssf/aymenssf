@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYMEN ASSAF</h1>
 <h3 align="center">Full-Stack developer</h3>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/aassaf" alt="aassaf's 42 stats" /></a>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/aassaf" alt="aassaf's 42 stats" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenssf&label=Profile%20views&color=0e75b6&style=flat" alt="aymenssf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymenssf" alt="aymenssf" /></a> </p>
